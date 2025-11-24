@@ -1,0 +1,4 @@
+playera|playera bonta|500|ropa
+1.|pantalon de mesclilla|1000|ropa casual
+2|chaqueta de cuero|800|ropa de invierno
+3|sueter moderno|400|ropa casual
