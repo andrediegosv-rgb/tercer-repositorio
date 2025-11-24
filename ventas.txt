@@ -1,0 +1,5 @@
+playera bonta|500.0|5|2500.0
+pantalon de mesclilla|1000.0|2|2000.0
+chaqueta de cuero|800.0|3|2400.0
+sueter moderno|400.0|2|800.0
+playera bonta|500.0|1|500.0
